@@ -1,0 +1,21 @@
+{
+  "name": "ma-remote",
+  "version": "1.0.0",
+  "description": "This is a NPM Package to tap into MA Remotes and provides a API to controll and make readouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltraLighting/MA-Remote.git"
+  },
+  "keywords": [],
+  "author": "ultraLighting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltraLighting/MA-Remote/issues"
+  },
+  "homepage": "https://github.com/UltraLighting/MA-Remote#readme"
+}
